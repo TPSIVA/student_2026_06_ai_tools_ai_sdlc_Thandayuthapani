@@ -1,0 +1,58 @@
+# ---- Secrets / env ----
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ---- Python (LearnFlow backend) ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# ---- Node / React (LearnFlow frontend) ----
+node_modules/
+.next/
+.turbo/
+.cache/
+coverage/
+*.local
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---- Build / frontend output ----
+frontend/dist/
+frontend/build/
+
+# ---- Playwright ----
+test-results/
+playwright-report/
+playwright/.cache/
+
+# ---- Docker / DB volumes ----
+*.sqlite3
+pgdata/
+
+# ---- Render-time / tooling noise ----
+.mermaid-filter.err
+mermaid-filter.err
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# NOTE: lab screenshots under labs/**/accounts/ are intentionally committed.
