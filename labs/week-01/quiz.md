@@ -3,6 +3,7 @@
 # Self-quiz 1
 
 **1. List the nine SDLC phases in order.**
+   
    Requirements -> Design-> Development -> Code Review -> Testing -> Security -> Documentation -> CI/CD -> Monitoring 
 
 **2. Name one AI tool for Security and one for Monitoring.**
