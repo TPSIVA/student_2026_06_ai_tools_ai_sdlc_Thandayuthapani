@@ -9,7 +9,7 @@
 | 1. Requirements |Claude.ai · Fathom  |Copilot Chat · Fathom · Gamma  | Claude.ai · Otter.ai · Canny | Gemini · Fathom · Gamma |
 | 2. Design | v0 · Uizard |Uizard · Figma AI  | Uizard · Framer AI | v0 · Figma AI |
 | 3. Development |Claude Code  | GitHub Copilot | Cursor · Codeium | Gemini CLI · Codeium |
-| 4. Code Review |  |  |  |  |
+| 4. Code Review |CodeRabbit  | CodeRabbit | Sourcery · CodeRabbit | CodeRabbit · Qodo |
 | 5. Testing |  |  |  |  |
 | 6. Security |  |  |  |  |
 | 7. Documentation |  |  |  |  |
