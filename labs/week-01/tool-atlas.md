@@ -12,7 +12,7 @@
 | 4. Code Review |CodeRabbit  | CodeRabbit | Sourcery · CodeRabbit | CodeRabbit · Qodo |
 | 5. Testing | Claude Code · Qodo | GitHub Copilot | Cursor · Qodo | Gemini CLI · Qodo |
 | 6. Security | Snyk | GitHub Advanced Security | Semgrep · Snyk | Snyk |
-| 7. Documentation |  |  |  |  |
+| 7. Documentation | Mintlify · Claude Code |GitHub Copilot  | GitBook · Swimm |Mintlify · Gemini CLI  |
 | 8. CI/CD |  |  |  |  |
 | 9. Monitoring |  |  |  |  |
 
