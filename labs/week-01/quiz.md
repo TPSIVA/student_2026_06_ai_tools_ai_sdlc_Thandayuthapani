@@ -22,4 +22,4 @@ GitHub Actions are Platform tool because it does not generates code, it gets cod
 Because few open source ai tools only works efficiently when your repos shared as a public instead of private.
 
 **5. Give one example of a tool whose category blurs between rule-based and AI, and explain why.**
-
+ Github Acttions.Eventhough it runs on platform with rule based but actutally it takes code automatically from GitHub
