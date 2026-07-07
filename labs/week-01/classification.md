@@ -8,7 +8,7 @@
 
 | # | Tool | My one-line classification (both questions) |
 |---|---|---|
-| 1 | **pytest** |  |
+| 1 | **pytest** | executes & rule-based |
 | 2 | **Claude Code** |  |
 | 3 | **GitHub Actions** |  |
 | 4 | **SonarQube** |  |
