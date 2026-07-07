@@ -7,7 +7,7 @@
 | SDLC Phase | Set A · Claude | Set B · Copilot | Set C · Cursor/OSS | Set D · Gemini |
 |---|---|---|---|---|
 | 1. Requirements |Claude.ai · Fathom  |Copilot Chat · Fathom · Gamma  | Claude.ai · Otter.ai · Canny | Gemini · Fathom · Gamma |
-| 2. Design |  |  |  |  |
+| 2. Design | v0 · Uizard |Uizard · Figma AI  | Uizard · Framer AI | v0 · Figma AI |
 | 3. Development |  |  |  |  |
 | 4. Code Review |  |  |  |  |
 | 5. Testing |  |  |  |  |
