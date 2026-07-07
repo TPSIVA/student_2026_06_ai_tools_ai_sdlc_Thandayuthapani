@@ -8,7 +8,9 @@
 
 **2. Name one AI tool for Security and one for Monitoring.**
 
-
+  AI Tool for Security : snyk
+  AI Tool for Monitoring : Datadog
+ 
 **3. Is GitHub Actions an AI tool or a platform tool? Why?**
 
 
