@@ -12,8 +12,8 @@
 | 2 | **Claude Code** | generates & AI-based |
 | 3 | **GitHub Actions** | executes & rule-based  |
 | 4 | **SonarQube** | executes & AI-based |
-| 5 | **Datadog Watchdog** |  |
-| 6 | **Docker** |  |
+| 5 | **Datadog Watchdog** | executes & AI-based  |
+| 6 | **Docker** | executes & rule-based |
 
 > **The SonarQube nuance:** its detection is rule-based and deterministic — every finding maps to a
 > named rule. But as of **SonarQube Server 2026.2 (March 2026)** it added **AI CodeFix** and
