@@ -14,6 +14,8 @@
  
 **3. Is GitHub Actions an AI tool or a platform tool? Why?**
 
+GitHub Actions are Platform tool because it does not generates code, it gets code from Git Reposotory. 
+
 
 **4. Why are the course labs run on public repos?**
 
