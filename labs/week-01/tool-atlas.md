@@ -10,8 +10,8 @@
 | 2. Design | v0 · Uizard |Uizard · Figma AI  | Uizard · Framer AI | v0 · Figma AI |
 | 3. Development |Claude Code  | GitHub Copilot | Cursor · Codeium | Gemini CLI · Codeium |
 | 4. Code Review |CodeRabbit  | CodeRabbit | Sourcery · CodeRabbit | CodeRabbit · Qodo |
-| 5. Testing |  |  |  |  |
-| 6. Security |  |  |  |  |
+| 5. Testing | Claude Code · Qodo | GitHub Copilot | Cursor · Qodo | Gemini CLI · Qodo |
+| 6. Security | Snyk | GitHub Advanced Security | Semgrep · Snyk | Snyk |
 | 7. Documentation |  |  |  |  |
 | 8. CI/CD |  |  |  |  |
 | 9. Monitoring |  |  |  |  |
