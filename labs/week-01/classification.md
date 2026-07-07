@@ -10,7 +10,7 @@
 |---|---|---|
 | 1 | **pytest** | executes & rule-based |
 | 2 | **Claude Code** | generates & AI-based |
-| 3 | **GitHub Actions** |  |
+| 3 | **GitHub Actions** | executes & rule-based  |
 | 4 | **SonarQube** |  |
 | 5 | **Datadog Watchdog** |  |
 | 6 | **Docker** |  |
