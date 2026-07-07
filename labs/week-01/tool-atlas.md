@@ -18,7 +18,7 @@
 
 ## One line per phase: what does the AI actually do here?
 
-1. Requirements —
+1. Requirements — Drafts stories, acceptance criteria, BRD sections
 2. Design —
 3. Development —
 4. Code Review —
